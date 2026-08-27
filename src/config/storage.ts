@@ -9,7 +9,7 @@
 export const STORAGE_CONFIG = {
   // Replace this with your actual S3 bucket URL when implementing AWS
   // e.g., 'https://your-actual-bucket-name.s3.amazonaws.com'
-  BASE_URL: 'https://student-resource-bucket.s3.amazonaws.com',
+  BASE_URL: 'https://student-resource-hub-kashif-2026.s3.eu-north-1.amazonaws.com',
   
   // Planned S3 Bucket Structure
   PATHS: {
